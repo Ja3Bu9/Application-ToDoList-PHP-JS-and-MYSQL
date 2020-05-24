@@ -12,7 +12,7 @@ Application de gestion de listes de tâches (todolist) avec les langages PHP et 
 
 
 
-## What can you do in the Application ?
+## What can you do with the Application ?
 -----------------------
 
 - Register
